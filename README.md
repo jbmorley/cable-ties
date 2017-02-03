@@ -1,5 +1,5 @@
 # Cable Ties
 
-Design for laser-cut cable ties.
+Laser-cut leather cable ties.
 
 ![](images/prototype.jpg)
