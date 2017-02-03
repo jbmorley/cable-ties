@@ -1,2 +1,5 @@
-# cable-ties
-Designs for laser-cut cable ties.
+# Cable Ties
+
+Design for laser-cut cable ties.
+
+![](images/prototype.jpg)
