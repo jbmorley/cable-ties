@@ -1,8 +1,11 @@
 # Cable Ties
 
-Laser-cut leather cable ties.
+Laser-cut cable ties.
 
-![](images/prototype.jpg)
+![](images/1.jpg)
+![](images/2.jpg)
+![](images/3.jpg)
+![Prototype](images/prototype.jpg)
 
 ## Studs
 
